@@ -15,9 +15,9 @@ Bootstrap and package your project with Angular 6(+) and Electron (Typescript + 
 
 Currently runs with:
 
-- Angular v6.1.2
-- Electron v2.0.7
-- Electron Builder v20.28.1
+- Angular v6.1.10
+- Electron v4.2.8
+- Electron Builder v20.44.4
 
 With this sample, you can :
 
@@ -30,7 +30,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/mileswilliams/angular-electron-starter.git
+git clone https://github.com/mileswilliamscalcy.git
 ```
 
 Install dependencies with npm :
