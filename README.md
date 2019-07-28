@@ -30,7 +30,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/mileswilliamscalcy.git
+git clone https://github.com/mileswilliams/calcy.git
 ```
 
 Install dependencies with npm :
